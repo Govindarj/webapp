@@ -1,7 +1,6 @@
 ﻿{
   "projects": [ "src", "test" ],
   "sdk": {
-    "version": "",
-    "runtime": "default"
+    "version": " "
   }
 }
